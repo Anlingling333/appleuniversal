@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "56XPVRV4M6.com.uama.greentown",
+                "paths":[ "*" ]
+            },
+            {
+                "appID": "D38XPC8URL.com.uama.SmartCommunity",
+                "paths":[ "*" ]
+            }
+        ]
+    }
+}
